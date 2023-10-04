@@ -7,11 +7,9 @@
     max-width: 250px;
     max-height:auto;
     float: right;
+    align: right;
   }
   
-  .text {
-    text-align: justify
-  }
 
 body {
     max-width: 1000px;
