@@ -10,7 +10,7 @@
   }
   
   .text {
-    float: right;
+    text-align: justify
   }
 
 body {
