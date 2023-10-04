@@ -14,8 +14,8 @@ li {
   }
   
   img {
-    max-width: 25%;
-    max-height:15%;
+    max-width: 250px;
+    max-height:auto;
     float: right;
   }
   
