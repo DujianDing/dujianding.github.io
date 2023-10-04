@@ -7,3 +7,18 @@ body {
 li {
     margin: 10px 0;
 }
+
+.container {
+    align-items: center;
+    justify-content: center;
+  }
+  
+  img {
+    max-width: 25%;
+    max-height:15%;
+    float: right;
+  }
+  
+  .text {
+    float: right;
+  }
